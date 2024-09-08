@@ -37,6 +37,7 @@ I appreciate any suggestions, feedback, or contributions to enhance this persona
 If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
 
 Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
-![Portfolio]![Screenshot 2024-09-07 131705](https://github.com/user-attachments/assets/64bbfc5d-9635-4245-a869-a86f0a4e0e68)
+![Portfolio]![Screenshot 2024-09-07 131705](https://github.com/user-attachments/assets/12b1c39d-60d6-44a8-aaa8-26b171677e1e)
+
 visit-https://prajaktap50.github.io/Personal-portfolio0/
 
